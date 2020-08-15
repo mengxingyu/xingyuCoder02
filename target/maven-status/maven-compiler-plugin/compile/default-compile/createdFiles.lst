@@ -1,0 +1,4 @@
+xyRedis\config\JedisConfig.class
+xyRedis\config\RedisConfig.class
+xyRedis\xyRedisApplication.class
+xyRedis\config\RedisCacheConfig.class
